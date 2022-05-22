@@ -4,7 +4,7 @@
 
 /**
  * _putchar - writes the character c to stdout
- * @c: The character to print
+ * @c: The character to be printed
  * Return: number of printed char
  */
 
@@ -67,7 +67,7 @@ int _strlen_recursion(char *s)
 
 /**
  * _strdup - a pointer to a newly allocated space in memory,
- *           which contains a copy of the string given as a parameter.
+ *           which contains a copy of the string given as a parameter the c.
  *
  * @str: char pointer to copy
  *
